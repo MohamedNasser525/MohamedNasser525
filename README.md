@@ -28,8 +28,6 @@
 -⚡ 2be || !2be
 
 
-<h2>Connect with me:</h2>
-
 
 
 
