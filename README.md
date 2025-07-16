@@ -43,6 +43,7 @@
   </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohamedNasser525&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![github-snake](https://github.com/MohamedNasser525/MohamedNasser525/assets/159939141/9b29f0bd-9dec-4f0c-b2ef-d77e513fe66e)
 
