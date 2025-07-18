@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Nasser Ghandour</h1>
 
--🔭 I’m currently working as Dotnet Developer ❤️ ✌️
+-🔭 I'm currently working as a .NET Developer ❤️ ✌️
 
 -🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.
 
@@ -10,17 +10,17 @@
 
 -🔭 I’m currently working on Back-end Applications
 
--🌱 I’m also currently learning Dot-Net Core
+-🌱 I’m also currently learning .NET Core
 
 -🤝 I’m looking for help with Backend_Job_Offer
 
--👨‍💻 All of my projects are available at https://github.com/MohamedNasser525?tab=repositories
+-👨‍💻 All of my projects are available at [Repositories](https://github.com/MohamedNasser525?tab=repositories)
 
--💬 Ask me about (.net Core)
+-💬 Ask me about (.NET Core)
 
 -📫 How to reach me mo.nasser525@gmail.com 📧 ✌️✌️❤️
 
--📄 Know about my experiences https://drive.google.com/file/d/1wsWyNc6RYGq_EbZBqopFMfWamHp0HrjA/view?usp=sharing
+-📄 Know about my experiences [CV](https://drive.google.com/file/d/1DIWSahtrC9aRJBjAIxE0E1TpNIQvrNe0/view?usp=sharing)
 
 -⚡ 2be || !2be
 
