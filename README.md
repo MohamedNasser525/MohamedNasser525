@@ -1,16 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Mohamed+Nasser+%F0%9F%91%8B;Software+Engineer+%7C+Backend+Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
-
+<h1 align="center">Hi there 👋, I'm Mohamrd Nasser</h1>
 
 
 <img align ="center" alt="coding" hight=150 width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif](https://github.com/MohamedNasser525/MohamedNasser525/assets/159939141/11f590be-af82-426f-91c5-e72e62457b73)">
 
-<h1 align="center">Hi there 👋, I'm Mohamrd Nasser</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=F76C6C&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Mohamed+Nasser+%F0%9F%91%8B;Software+Engineer+%7C+Backend+Developer+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 ### 🧠 About Me
 
 - 🔭 I'm currently working as a Software Engineer ❤️ ✌️
 
-- 🎯Aspiring .NET Developer |Passionate Problem-Solver 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.
+- 🎯Aspiring .NET Developer |Passionate Problem-Solver
+  
+<!---- 🚀 Computer Science Student deeply passionate about .NET development and problem-solving. Eager to apply and enhance skills for impactful tech solutions🌟.<!--->
 
 - 🌱 I’m currently learning Advanced Algorithms
 
