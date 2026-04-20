@@ -27,7 +27,7 @@
 
 - 📫 How to reach me mo.nasser525@gmail.com 📧 ✌️✌️❤️
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1DIWSahtrC9aRJBjAIxE0E1TpNIQvrNe0/view?usp=sharing)
+- 📄 Know about my experiences [CV]([https://drive.google.com/file/d/1DIWSahtrC9aRJBjAIxE0E1TpNIQvrNe0/view?usp=sharing](https://canva.link/qy2tvn0055sjqx2))
 
 - ⚡ 2be || !2be
 
